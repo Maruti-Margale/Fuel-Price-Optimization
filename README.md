@@ -2,7 +2,7 @@
 
 Live Demo : https://fuel-price-optimization-bymaruti.streamlit.app/
 
-```marmaid
+```mermaid
 graph TD
     A[User opens Streamlit app] --> B[App loads UI components]
     B --> C[User enters today's prices and cost in sidebar]
