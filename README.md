@@ -15,7 +15,7 @@ This project recommends the optimal daily fuel price to maximize profit using a 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Maruti-Margale/Fuel-Price-Optimization/tree/Maruti
+gh repo clone Maruti-Margale/Fuel-Price-Optimization
 cd fuel-price-optimization
 ```
 
